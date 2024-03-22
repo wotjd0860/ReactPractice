@@ -1,7 +1,7 @@
 # ReactPractice
 
 ## General Information
-- Period : 2024-03-16 ~ 
+- Period : 2024-03-16 ~ 2024-03-21
 - Member : Jaeseong Park
 
 ## Skills
@@ -26,3 +26,6 @@
 
 ### [2024-03-21]
 - use of react-router-dom
+- npm i gh-pages
+- npm run build
+- "Breaking Change"
